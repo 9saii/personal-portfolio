@@ -220,7 +220,7 @@ export default function Projects() {
                     <div className="project--showcaseBtn">
                       <a
                         href={
-                          "https://github.com/9saii/my-portfolio"
+                          "https://github.com/9saii/personal-portfolio"
                         }
                         target="_blank"
                         rel="noreferrer"
