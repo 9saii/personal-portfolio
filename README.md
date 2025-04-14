@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website built with React, showcasing 
 
 ## Live Demo
 
-Visit the live website: [Personal Portfolio](https://personal-portfolio-eight-peach.vercel.app/certificatepage)
+Visit the live website: [Personal Portfolio](https://personal-portfolio-eight-peach.vercel.app/)
 
 ## Features
 
