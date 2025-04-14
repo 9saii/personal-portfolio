@@ -2,6 +2,10 @@
 
 A modern and responsive personal portfolio website built with React, showcasing my projects, skills, and professional experience.
 
+## Live Demo
+
+Visit the live website: [Personal Portfolio](https://personal-portfolio-eight-peach.vercel.app/certificatepage)
+
 ## Features
 
 - 🎨 Modern UI/UX design with smooth animations
